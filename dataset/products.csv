@@ -1,0 +1,6 @@
+product_id,product_name,category,price
+1,Laptop,Electronics,900.0
+2,Phone,Electronics,500.0
+3,Shoes,Fashion,80.0
+4,Watch,Accessories,150.0
+5,Tablet,Electronics,300.0
